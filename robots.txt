@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://grade-calculator.tabutility.com/sitemap.xml
